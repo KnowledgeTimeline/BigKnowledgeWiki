@@ -12,6 +12,36 @@
 	<!-- 默认主题 -->
 	<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 	
+	<!-- 自定义 CSS：二维码样式 -->
+	<style>
+		.qr-code-container {
+			display: none;
+			position: absolute;
+			top: 40px;
+			right: 0;
+			padding: 10px;
+			background: #fff;
+			border: 2px solid #C1F5DE;
+			border-radius: 8px;
+			box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+			z-index: 9999;
+		}
+		.qr-code-container img {
+			width: 200px;
+			height: 200px;
+			display: block;
+			max-width: none !important;
+			min-width: 150px;
+		}
+		.more-qr {
+			position: relative;
+			cursor: pointer;
+		}
+		.more-qr:hover .qr-code-container {
+			display: block;
+		}
+	</style>
+  
 	<style>
 		pre {
 			white-space: pre-wrap !important; /* 核心：自动换行，保留空格 */
@@ -33,9 +63,9 @@
 			mergeNavbar: true,// 小屏设备下合并导航栏到侧边栏
             coverpage: true,// 封面，默认加载_coverpage.md
 			onlyCover: false,
-			pagination: {
-				previousText: '上一章',
-				nextText: '下一章'
+			pagination: {// 分页
+				previousText: 'Previous',
+				nextText: 'Next'
 			},
             maxLevel: 3,// 最大渲染标题层级
             subMaxLevel: 3,// 自定义侧边栏后默认不会再生成目录，设置生成目录的最大层级（建议配置为2-4）
@@ -76,5 +106,7 @@
     <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script> -->
 	<!-- 统计中文汉字和英文单词 -->
 	<script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+	<!-- 分页 -->
+	<script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>
 </html>
