@@ -1,13 +1,10 @@
 * [首页](/)
-	* [指南](/guide.md)<!-- 相对路径 -->
-		* [指南](/guide.md)<!-- 相对路径 -->
-* [API参考](/api.md)
-
-* [修炼内心](/api.md)
-	* [思考的乐趣](/S4/pleasure_of_thinking)
-* [关系群体](/api.md)
-* [探索宇宙](/api.md)
-
+	* [**[修炼内心]**](/Self.md)
+		* [思考的乐趣](/S4/pleasure_of_thinking)
+	* [**[关系群体]**](/Society.md)
+	* [**[探索宇宙]**](/Universe.md)
+	* [**>问答集锦<**](/QA.md)
+---
 ---
 <center><strong>Season 1(20xx-20xx)</strong></center>
 
