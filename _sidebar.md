@@ -1,9 +1,12 @@
 * [首页](/)
 	* [**[修炼内心]**](/Self.md)
-		* [思考的乐趣](/S4/pleasure_of_thinking)
+		* [思考的乐趣](/S4/Pleasure_of_Thinking)
 	* [**[审塑社会]**](/Society.md)
-		* [灰色企业家](/S4/entrepreneur_in_the_gray_area)
+		* [灰色企业家](/S4/Entrepreneur_in_the_Gray_Area)
+		* [西方怪人](/S4/The_WEIRDest_West)
 	* [**[探索宇宙]**](/Universe.md)
+		* [相对论](/S4/)
+		* [量子力学](/S4/)
 	* [**>问答集锦<**](/QA.md)
 ---
 ---
@@ -18,5 +21,6 @@
 ---
 <center><strong>Season 4(2020-2021)</strong></center>
 
-* [思考的乐趣](/S4/pleasure_of_thinking)
-* [灰色企业家](/S4/entrepreneur_in_the_gray_area)
+* [思考的乐趣](/S4/Pleasure_of_Thinking)
+* [灰色企业家](/S4/Entrepreneur_in_the_Gray_Area)
+* [西方怪人](/S4/The_WEIRDest_West)
