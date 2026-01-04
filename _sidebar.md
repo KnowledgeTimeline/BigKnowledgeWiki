@@ -2,6 +2,7 @@
 	* [**[修炼内心]**](/Self.md)
 		* [思考的乐趣](/S4/Pleasure_of_Thinking)
 		* [科学思考者](/S4/Scientific_Thinker)
+		* [金钱心理学](/S4/The_Psychology_of_Money)
 	* [**[审塑社会]**](/Society.md)
 		* [灰色企业家](/S4/Entrepreneur_in_the_Gray_Area)
 		* [西方怪人](/S4/The_WEIRDest_West)
@@ -26,3 +27,4 @@
 * [灰色企业家](/S4/Entrepreneur_in_the_Gray_Area)
 * [西方怪人](/S4/The_WEIRDest_West)
 * [科学思考者](/S4/Scientific_Thinker)
+* [金钱心理学](/S4/The_Psychology_of_Money)
