@@ -4,6 +4,7 @@
 		* [科学思考者](/S4/Scientific_Thinker)
 		* [金钱心理学](/S4/The_Psychology_of_Money)
 	* [**[审塑社会]**](/Society.md)
+		* [让世界讲得通](/S4/Make_the_World_Understandable)
 		* [灰色企业家](/S4/Entrepreneur_in_the_Gray_Area)
 		* [西方怪人](/S4/The_WEIRDest_West)
 	* [**[探索宇宙]**](/Universe.md)
@@ -28,3 +29,4 @@
 * [西方怪人](/S4/The_WEIRDest_West)
 * [科学思考者](/S4/Scientific_Thinker)
 * [金钱心理学](/S4/The_Psychology_of_Money)
+* [让世界讲得通](/S4/Make_the_World_Understandable)
