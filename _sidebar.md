@@ -6,11 +6,13 @@
 	* [**[审塑社会]**](/Society.md)
 		* [让世界讲得通](/S4/Make_the_World_Understandable)
 		* [灰色企业家](/S4/Entrepreneur_in_the_Gray_Area)
+		* [火线上的适应](/S4/Adaptation_under_Fire)
 		* [西方怪人](/S4/The_WEIRDest_West)
 	* [**[探索宇宙]**](/Universe.md)
 		* [相对论](/S4/)
 		* [量子力学](/S4/)
 	* [**>问答集锦<**](/QA.md)
+	* [**>常识·误区·思辨<**](/Topics.md)
 ---
 ---
 <center><strong>Season 1(20xx-20xx)</strong></center>
@@ -30,3 +32,5 @@
 * [科学思考者](/S4/Scientific_Thinker)
 * [金钱心理学](/S4/The_Psychology_of_Money)
 * [让世界讲得通](/S4/Make_the_World_Understandable)
+* [火线上的适应](/S4/Adaptation_under_Fire)
+
