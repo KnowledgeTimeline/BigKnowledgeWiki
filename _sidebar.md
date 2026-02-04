@@ -13,7 +13,8 @@
 		* [相对论](/S4/)
 		* [量子力学](/S4/)
 	* [**>问答集锦<**](/QA.md)
-	* [**>常识·误区·思辨<**](/Topics.md)
+	* [**>生活·思辨<**](/Topics.md)
+
 ---
 ---
 <center><strong>Season 1(20xx-20xx)</strong></center>
