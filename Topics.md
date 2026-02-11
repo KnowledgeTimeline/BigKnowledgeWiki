@@ -18,9 +18,5 @@
 
 ## (曾经的)热点议题
 
-
-
-
-[中医](/S4/...)
-
-[严肃说 UFO](/S4/Seriously_Speaking_About_UFO)
+- 一个绝交话题 -- 中医, 它的底层是 [对协调的信仰](/S4/Faith_in_Coordination) 
+- [严肃说 UFO](/S4/Seriously_Speaking_About_UFO)
