@@ -2,6 +2,7 @@
 
 作为鸡娃的家长, 你应该知道: 
 
+- 被用滥的一个词: 内卷 ! ( [到底什么叫“内卷”](/S4/What_Exactly_is_Involution) )
 - 下棋不能提高智商( [学下棋最好的时间是童年，其次是现在](/S4/The_Best_Time_to_Learn_Chess) ), 那 [做什么能提高智商](/S4/How_to_Improve_IQ) 呢 ? 
 - [原生家庭、天生智商、终身学习：到底都有多大用](/S4/Innate_Intelligence_VS_Acquired_Learning) ?
 - 不要让孩子没“苦”硬吃, 因为 [“苦”没有价值](/S4/Suffering_Has_No_Value) !
