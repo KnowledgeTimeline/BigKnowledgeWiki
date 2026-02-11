@@ -2,6 +2,7 @@
 	* [**[修炼内心]**](/Self.md)
 		* [思考的乐趣](/S4/Pleasure_of_Thinking)
 		* [科学思考者](/S4/Scientific_Thinker)
+		* [重新思考](/S4/Think_Again)
 		* [金钱心理学](/S4/The_Psychology_of_Money)
 	* [**[审塑社会]**](/Society.md)
 		* [高观点下的人生和育儿](/S2/Gardener_and_Carpenter)
