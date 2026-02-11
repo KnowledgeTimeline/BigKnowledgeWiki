@@ -14,6 +14,8 @@
 
 ## 历史片段的深处
 
+- [晚明生活美学，你受得了吗？](/S4/Late_Ming_Life_Aesthetics) 
+- [义和团的细节](/S4/Details_of_the_Boxer_Movement) 
 
 
 
