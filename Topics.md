@@ -33,4 +33,4 @@
 
 
 
-[UFO](/S4/...)
+[严肃说 UFO](/S4/Seriously_Speaking_About_UFO)
