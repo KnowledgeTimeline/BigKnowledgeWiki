@@ -17,7 +17,8 @@
 细节:
 
 - [晚明生活美学，你受得了吗？](/S4/Late_Ming_Life_Aesthetics)
-- [义和团的细节](/S4/Details_of_the_Boxer_Movement)
+- 咱们这一代中国人对义和团至少会认识两次( [义和团的细节](/S4/Details_of_the_Boxer_Movement) )
+- 这个案例曾经震惊中外: [曾国藩主持办理的“天津教案”](/S4/Scientific_Thinker?id=番外篇3-叙事的较量)
 
 历史观:
 
