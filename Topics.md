@@ -14,7 +14,8 @@
 
 ## (曾经的)热点议题
 
-- 一个绝交话题 -- 中医, 它的底层是 [对协调的信仰](/S4/Faith_in_Coordination) 
+- 一个绝交话题 -- 中医, 它的底层是 [对协调的信仰](/S4/Faith_in_Coordination)
+- [全球变暖到底是怎么回事儿？](/S4/Make_the_World_Understandable?id=问答) (或 左上角搜索 "全球气候变暖的问题")
 - [严肃说 UFO](/S4/Seriously_Speaking_About_UFO)
 
 
