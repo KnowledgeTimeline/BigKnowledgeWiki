@@ -1,5 +1,6 @@
 * [首页](/)
 	* [**[修炼内心]**](/Self.md)
+		* [读书的道与术](/S4/The_Principle_and_Skill_of_Reading)
 		* [思考的乐趣](/S4/Pleasure_of_Thinking)
 		* [科学思考者](/S4/Scientific_Thinker)
 		* [重新思考](/S4/Think_Again)
