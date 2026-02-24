@@ -6,6 +6,7 @@
 - 下棋不能提高智商( [学下棋最好的时间是童年，其次是现在](/S4/The_Best_Time_to_Learn_Chess) ), 那 [做什么能提高智商](/S4/How_to_Improve_IQ) 呢 ? 
 - [原生家庭、天生智商、终身学习：到底都有多大用](/S4/Innate_Intelligence_VS_Acquired_Learning) ?
 - 不要让孩子没“苦”硬吃, 因为 [“苦”没有价值](/S4/Suffering_Has_No_Value) !
+- [提高学习成绩的最简单心法](/S2/Gardener_and_Carpenter?id=番外篇4：提高学习成绩的最简单心法)
 - 将来的求学 / 找工作的思维 ( [录取侧思维](/S4/Admissions-Minded_Thinking) )
 
 最后, 希望你能有点通才的格局( [通才论](/S4/Generalist_Theory) ) , 同时看看 [美国的中年人](/S2/Middle-aged_Americans) 都是什么状态...
@@ -27,7 +28,7 @@
 
 - [晚明生活美学，你受得了吗？](/S4/Late_Ming_Life_Aesthetics)
 - 咱们这一代中国人对义和团至少会认识两次( [义和团的细节](/S4/Details_of_the_Boxer_Movement) )
-- 这个案例曾经震惊中外: [曾国藩主持办理的“天津教案”](/S4/Scientific_Thinker?id=番外篇3-叙事的较量)
+- 这个案例曾经震惊中外: [曾国藩主持办理的“天津教案”](/S4/Scientific_Thinker?id=番外篇3：叙事的较量)
 
 历史观:
 
