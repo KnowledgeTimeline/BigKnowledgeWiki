@@ -10,8 +10,9 @@
 
 希望你能有点通才的格局( [通才论](/S4/Generalist_Theory) ) , 同时看看 [美国的中年人](/S2/Middle-aged_Americans) 都是什么状态...
 
-- **2> 大 V 的争论, 是我们长见识的黄金时刻**:
-	- [“递弱代偿”和民间哲学家](/S4/Folk_Philosopher)
+- **2> "赛先生" 在中国之怪现状**:
+	- [社会科学的科学问题](/S4/The_Scientific_Questions_of_Social_Sciences)
+	- 大 V 的交锋, 是我们长见识的黄金时刻 ( [“递弱代偿”和民间哲学家](/S4/Folk_Philosopher) )
 
 
 
